@@ -1,0 +1,19 @@
+p.odd {
+    font-family: Verdana, sans-serif;
+    background-color: #ffb6c1;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#elite {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(150, 255, 0);
+}
+
+.odd.prime {
+    font-size: 24px;
+}
